@@ -15,13 +15,13 @@ Modern fintech interface designed with responsive layout structure and clean pre
 
 ## Preview
 
-![Homepage](homepage.png)
+![Homepage](fintech-home.png)
 
 ---
 
 ## Live Demo
 
-https://YOUR_HOSTED_LINK_HERE
+https://(https://josephstephen-dev.github.io/fintech-ui/)
 
 ---
 
